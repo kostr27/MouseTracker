@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="arrows">
+    <file>icons/passive-arrow.svg</file>
+    <file>icons/active-arrow.svg</file>
+  </qresource>
+</RCC>
